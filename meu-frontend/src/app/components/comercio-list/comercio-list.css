@@ -1,0 +1,24 @@
+.w-full {
+    width: 100% !important;
+}
+
+.field {
+    margin-bottom: 1rem;
+}
+
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #3B82F6;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+::ng-deep .p-dialog-content {
+    overflow: visible !important;
+}
+
+::ng-deep .p-dialog {
+    overflow: visible !important;
+}
